@@ -1,0 +1,2 @@
+Python==3.10
+Processing==[appropriate Processing version for Python 3.10]
